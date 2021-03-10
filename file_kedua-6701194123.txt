@@ -1,0 +1,4 @@
+tingkat 1
+
+ip semester 1 : 2.73
+ip semester 2 : 3.1
